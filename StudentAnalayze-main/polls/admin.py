@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from .models import OrtaOkulListesi, users
+from .models import OrtaOkulListesi
 from .models import SoruListesi
 from .models import Donem
 from .models import GorevTablosu

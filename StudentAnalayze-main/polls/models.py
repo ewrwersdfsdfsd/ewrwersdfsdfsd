@@ -1,5 +1,4 @@
 from django.db import models
-from django.utils import timezone
 from django.db.models.aggregates import Max
 from django.db.models.base import Model
 from django.db.models.fields.related import OneToOneField

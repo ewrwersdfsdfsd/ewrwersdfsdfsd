@@ -1,6 +1,6 @@
 from django.urls import path
 
-from polls.form import *
+from polls.forms import *
 
 from . import views
 
